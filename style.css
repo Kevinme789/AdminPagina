@@ -460,3 +460,9 @@ main .recent-orders a{
     overflow: hidden;
 }
 
+.reminders .header span{
+    color: var(--color-dark);
+}
+span{
+    color: var(--color-dark);
+}
